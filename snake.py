@@ -1,7 +1,7 @@
 from tkinter import *
 
-game_width = 500
-game_height = 500
+game_width = 400
+game_height = 400
 snake_item = 10
 
 tk = Tk()
